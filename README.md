@@ -14,6 +14,9 @@ Provide data-driven insights to support strategic decision-making in sales and m
 Dataset 
 Source: Superstore Sales Dataset 
 
+**Dashboard**
+https://public.tableau.com/app/profile/oluwatobi.okitika6615/viz/ComparisonofRegionBasedonSales_17763560456230/Dashboard1?publish=yes
+
 **Key Columns:** 
 
 Order Date, Ship Date 
